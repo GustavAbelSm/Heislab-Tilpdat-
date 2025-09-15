@@ -1,2 +1,0 @@
-# TilpDat
-Lab i tilpdat
